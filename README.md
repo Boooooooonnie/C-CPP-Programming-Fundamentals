@@ -13,7 +13,6 @@ Programming-Fundamentals/
 ├── 03_Exercises/         # Exercise set 3
 ├── 04_Exercises/         # Exercise set 4
 ├── 05_Exercises/         # Exercise set 5
-├── Exam/                 # Exam practice / solutions
 ├── .gitignore
 └── README.md
 ```
